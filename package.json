@@ -1,6 +1,6 @@
 {
   "name": "grunt-i18npack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Grunt plugin for i18npack",
   "homepage": "https://github.com/ekawatani/i18npack",
   "repository": "git@github.com:ekawatani/i18npack.git",
