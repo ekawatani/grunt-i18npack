@@ -1,0 +1,37 @@
+{
+  "name": "grunt-i18npack",
+  "version": "0.0.1",
+  "description": "Grunt plugin for i18npack",
+  "homepage": "https://github.com/ekawatani/i18npack",
+  "repository": "git@github.com:ekawatani/i18npack.git",
+  "author": {
+    "name": "Ed",
+    "email": "e.k.dev@outlook.com",
+    "url": "https://github.com/ekawatani"
+  },
+  "keywords": [
+    "grunt",
+    "i18npack",
+    "json",
+    "yaml"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-nodeunit": "~0.3.0",
+    "grunt": "~0.4.2",
+    "jshint-stylish": "~0.1.5",
+    "load-grunt-tasks": "~0.3.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "i18npack": ">= 0.0.1"
+  }
+}

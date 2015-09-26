@@ -1,0 +1,18 @@
+index: !struct
+  _schema: page.json
+  pageTitle: !t
+    - My Website
+    - Mon site web
+  description: !t
+    - Welcome to my website.
+    - Bienvenue sur mon site web.
+  url: http://www.mywebsite.com
+about: !struct
+  _schema: page.json
+  pageTitle: !t
+    - About Me
+    - A propos de moi
+  description: !t
+    - I am John Smith.
+    - Je suis John Smith.
+  url: http://www.mywebsite.com/about
