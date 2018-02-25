@@ -45,4 +45,4 @@ See [i18npack](https://github.com/ekawatani/i18npack) README.
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## License
-Copyright (c) 2015 Ed. Licensed under the MIT license.
+Copyright (c) 2015 Eigo Kawatani. Licensed under the MIT license.
